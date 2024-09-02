@@ -11,4 +11,11 @@ However, if the user doesn't complete a task, then these stats and their level w
 One thing I noticed about Habitica, is while it is a really immersive habit tracker that allows people to truly turn their life into a game, there seems to be quite a learning curve into fully utilising the app.
 Therefore, I want to create something a lot simpler, that still engages the user.
 
+# What I'm currently working on
+
+* Creating a Unity environment
+* Pushing a button and having a bar update
+
+
+
 I will be updating this README file as I make progress on the game/habit tracker.

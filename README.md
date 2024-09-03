@@ -16,6 +16,10 @@ Therefore, I want to create something a lot simpler, that still engages the user
 * Creating a Unity environment
 * Pushing a button and having a bar update
 
+# What I've currently done
+
+* Created a button in Unity, along with a bar template
+
 
 
 I will be updating this README file as I make progress on the game/habit tracker.

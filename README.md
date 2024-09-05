@@ -1,3 +1,5 @@
+# Note that I will add all of the code once I am finished/happy with each file, along with screenshots
+
 # HabitRPG
 A habit tracker that acts like a videogame RPG
 

@@ -15,12 +15,15 @@ Therefore, I want to create something a lot simpler, that still engages the user
 
 # What I'm currently working on
 
-* Creating a Unity environment
-* Pushing a button and having a bar update
+* Resetting the bar as the player levels up
+* Having the player level up
+* Removing all errors
 
 # What I've currently done
 
 * Created a button in Unity, along with a bar template
+* Made it so that when the button is pressed, the Bar updates and fills up
+* Made a Level up feature where once the bar
 
 
 
